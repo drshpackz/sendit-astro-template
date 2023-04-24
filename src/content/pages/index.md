@@ -21,29 +21,29 @@ content_blocks:
       text: Connect Today
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: 'Grow Faster, '
+    title_suffix: Go Global.
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
       templates, and more to get you started on your next project.
     alternate_style: false
     numbers:
       - prefix: $
-        number: 200
+        number: 5
         suffix: m
-        text: Venture capital raised
+        text: Total Annual Revenue
       - prefix:
         number: 2016
         suffix:
-        text: Established in
+        text: We working since
       - prefix:
-        number: 40
+        number: 13
         suffix: +
         text: Amazing team members
       - prefix:
         number: 4322
         suffix: +
-        text: Active users and growing
+        text: Closed deals
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
