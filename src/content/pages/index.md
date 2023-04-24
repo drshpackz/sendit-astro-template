@@ -15,10 +15,10 @@ content_blocks:
     description: >-
       Unlocking Competitive Pricing and Tailored Solutions: Trustworthy
       Connections with Manufacturers in China for Your Business Needs
-    image: /images/hero/hero-image-2.png
+    image: /uploads/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: Connect Today
       link: /signup/
   - _bookshop_name: global/counter
     title: Scale your
