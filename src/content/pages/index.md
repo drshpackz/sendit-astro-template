@@ -18,7 +18,7 @@ content_blocks:
     image: /uploads/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Connect Today
+      text: Get Access
       link: /signup/
   - _bookshop_name: global/counter
     title: 'Grow Faster, '
