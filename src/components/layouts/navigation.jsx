@@ -32,6 +32,7 @@ export default function Navigation({ pageUrl }) {
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               <img src={navigation.logo} alt="Nav-Logo" />
+              <span style={{ fontFamily: '"Sora", sans-serif', fontWeight: '700', fontSize: '1.2rem', marginLeft: '0.3rem', color: '#333' }}>MinaGlobal</span>
             </a>
             <button
               className="navbar-toggler"
@@ -143,3 +144,4 @@ export default function Navigation({ pageUrl }) {
     </>
   );
 }
+

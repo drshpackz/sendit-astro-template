@@ -1,5 +1,5 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/images/logo.png",
   "items": [
     {
       "link": "/",
@@ -7,15 +7,15 @@
     },
     {
       "link": "/features/",
-      "text": "Features"
+      "text": "Our Solutions"
     },
     {
       "link": "/pricing/",
-      "text": "Pricing"
+      "text": "Services"
     },
     {
       "link": "/about/",
-      "text": "About"
+      "text": "About Company"
     },
     {
       "link": "/blog/",
@@ -23,11 +23,11 @@
     },
     {
       "link": "/contact/",
-      "text": "Contact"
+      "text": "Contact Us"
     }
   ],
   "btn": {
     "link": "/signup/",
-    "text": "Get Started"
+    "text": "Get in touch"
   }
 }
